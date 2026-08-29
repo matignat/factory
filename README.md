@@ -54,3 +54,5 @@ To compile and execute tests on the target environment, run:
 ```bash
 make test
 ```
+
+after generating Makefile in /build with CMake
