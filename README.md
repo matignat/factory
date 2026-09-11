@@ -2,7 +2,7 @@
 
 A concurrent simulation engine for a factory handling worker allocation, processing stations, and scheduled tasks, implemented in C.
 
-Developed as part of a concurrent systems programming assignment.
+Developed as part of a concurrent systems programming assignment. 
 
 ---
 
@@ -56,3 +56,6 @@ make test
 ```
 
 after generating Makefile in /build with CMake
+
+## Disclaimer 
+`common` and `demo` files were provided as a part of the task, the `solution.c` file was written independently by me and contains my solution.
